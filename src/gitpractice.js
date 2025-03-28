@@ -1,1 +1,2 @@
-console.log('practicng git code')
+console.log('practicing git code')
+console.log(' this is how you learn stuff.')
